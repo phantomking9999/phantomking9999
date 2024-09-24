@@ -1,5 +1,5 @@
-## Hi there 👋
 
+<a href="https://app.daily.dev/phantomking69"><img src="https://api.daily.dev/devcards/v2/8S8lEVo5H3giZZkkmpexU.png?type=wide&r=6rd" width="652" alt="Adham Barzik's Dev Card"/></a>
 <!--
 **phantomking9999/phantomking9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
